@@ -51,7 +51,7 @@ dependencies {
      * Things needed regardless of turbo/extremeTurbo/stock
      */
     stockApi 'com.android.support:support-annotations:28.0.0'
-    stockApi 'org.tensorflow:tensorflow-lite:0.0.0-nightly'
+    stockApi 'org.tensorflow:tensorflow-lite:1.12.0'
     stockApi 'org.openftc:tfod-ftc-repackaged:5.0'
 
     /*
